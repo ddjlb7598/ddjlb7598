@@ -229,4 +229,3 @@ local Generators = Function:CreateToggle({
         if Value then
             local Generators = Workspace1.Map.Generators.GeneratorMesh
             local GeneratorsHighlightRepeat = Generators:FindFirstChild("GeneratorsESP")
-        
